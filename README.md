@@ -148,7 +148,7 @@ Personal blogging platforms often provide contextual behavioral intelligence.
 
 Final stage: Review of the blog’s page source.
 
-Within the HTML ...................source, a plaintext string was discovered:
+Within the HTML source, a plaintext string was discovered:
 
 ```text
 pennYDr0pper.!
@@ -185,27 +185,6 @@ This lab reinforces several real-world cybersecurity concerns:
 * Poor operational security (OPSEC) creates aggregation risk
 
 Even when individual data points seem harmless, correlation can reveal significant exposure.
-
----
-
-# Why This Project Matters
-
-For recruiters and hiring managers, this repository demonstrates:
-
-* Structured problem-solving approach
-* Clear investigative documentation
-* Technical familiarity with OSINT tools
-* Ability to connect multi-source intelligence
-* Strong analytical reasoning
-* Security awareness mindset
-
-The project reflects practical application of reconnaissance techniques relevant to:
-
-* Cyber Threat Intelligence
-* Penetration Testing (Recon Phase)
-* Red Teaming
-* Security Analysis
-* SOC Operations
 
 ---
 
