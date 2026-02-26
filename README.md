@@ -56,7 +56,7 @@ exiftool image.jpg
 * Copyright tag: **OWoodflint**
 
 📸 Screenshot placeholder:
-`![Metadata Screenshot](images/WindowsXP_1551719014755.jpg)`
+`![Metadata Screenshot](/images/WindowsXP_1551719014755.jpg)`
 
 This immediately provided both a potential identity and geolocation lead.
 
@@ -71,7 +71,7 @@ A search for the discovered username revealed accounts on:
 * WordPress
 
 📸 Screenshot placeholder:
-`![Google Search Result](images/google.png)`
+`![Google Search Result](/images/google.png)`
 
 This enabled cross-platform digital footprint analysis.
 
@@ -83,7 +83,7 @@ On the subject’s X profile:
 
 * Avatar identified → **Cat**
   📸 Screenshot placeholder:
-  `![User Avatar](images/Xdata.png)`
+  `![User Avatar](/images/Xdata.png)`
 
 * A publicly posted BSSID was discovered:
 
@@ -92,7 +92,7 @@ B4:5D:50:AA:86:41
 ```
 
 📸 Screenshot placeholder:
-`![BSSID Post](images/Xdata1.png`
+`![BSSID Post](/images/Xdata1.png`
 
 This introduced network-level reconnaissance into the investigation.
 
@@ -139,7 +139,7 @@ The subject’s WordPress blog revealed:
 * Holiday location → **New York**
 
 📸 Screenshot placeholder:
-`![Blog Holiday Post](images/location.png)`
+`![Blog Holiday Post](/images/location.png)`
 
 Personal blogging platforms often provide contextual behavioral intelligence.
 
@@ -149,14 +149,14 @@ Personal blogging platforms often provide contextual behavioral intelligence.
 
 Final stage: Review of the blog’s page source.
 
-Within the HTML source, a plaintext string was discovered:
+Within the HTML ...................source, a plaintext string was discovered:
 
 ```text
 pennYDr0pper.!
 ```
 
 📸 Screenshot placeholder:
-`![Password in Source Code](images/srcCode.png)`
+`![Password in Source Code](/images/srcCode.png)`
 
 This highlights the importance of secure development practices and proper credential management.
 
