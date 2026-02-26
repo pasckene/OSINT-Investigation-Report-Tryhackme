@@ -56,7 +56,7 @@ exiftool image.jpg
 * Copyright tag: **OWoodflint**
 
 📸 Screenshot placeholder:
-`![Metadata Screenshot](screenshots/metadata.png)`
+`![Metadata Screenshot](images/WindowsXP_1551719014755.jpg)`
 
 This immediately provided both a potential identity and geolocation lead.
 
@@ -71,7 +71,7 @@ A search for the discovered username revealed accounts on:
 * WordPress
 
 📸 Screenshot placeholder:
-`![Google Search Result](screenshots/google_search.png)`
+`![Google Search Result](images/google.png)`
 
 This enabled cross-platform digital footprint analysis.
 
@@ -83,7 +83,7 @@ On the subject’s X profile:
 
 * Avatar identified → **Cat**
   📸 Screenshot placeholder:
-  `![User Avatar](screenshots/user_avatar.png)`
+  `![User Avatar](images/Xdata.png)`
 
 * A publicly posted BSSID was discovered:
 
@@ -92,7 +92,7 @@ B4:5D:50:AA:86:41
 ```
 
 📸 Screenshot placeholder:
-`![BSSID Post](screenshots/bssid.png)`
+`![BSSID Post](images/Xdata1.png`
 
 This introduced network-level reconnaissance into the investigation.
 
@@ -114,7 +114,7 @@ Using WiGLE, I queried the BSSID.
 **SSID: UnileverWiFi**
 
 📸 Screenshot placeholder:
-`![SSID Discovery](screenshots/ssid.png)`
+`![SSID Discovery](images/sXdata1.png)`
 
 ---
 
@@ -126,7 +126,7 @@ While reviewing public repositories on GitHub:
 * Location listed: **London**
 
 📸 Screenshot placeholder:
-`![GitHub Profile](screenshots/github_profile.png)`
+`![GitHub Profile](images/githubdata.png)`
 
 This reinforces how public code repositories can unintentionally expose personally identifiable information (PII).
 
@@ -139,7 +139,7 @@ The subject’s WordPress blog revealed:
 * Holiday location → **New York**
 
 📸 Screenshot placeholder:
-`![Blog Holiday Post](screenshots/blog_holiday.png)`
+`![Blog Holiday Post](images/location.png)`
 
 Personal blogging platforms often provide contextual behavioral intelligence.
 
@@ -156,7 +156,7 @@ pennYDr0pper.!
 ```
 
 📸 Screenshot placeholder:
-`![Password in Source Code](screenshots/password_source.png)`
+`![Password in Source Code](images/srcCode.png)`
 
 This highlights the importance of secure development practices and proper credential management.
 
