@@ -55,8 +55,9 @@ exiftool image.jpg
 * GPS Coordinates embedded
 * Copyright tag: **OWoodflint**
 
-📸 Screenshot placeholder:
-`![Metadata Screenshot](https://github.com/pasckene/OSINT-Investigation-Report-Tryhackme/blob/main/images/WindowsXP_1551719014755.jpg?raw=true)`
+
+![Metadata Screenshot](/images/WindowsXP_1551719014755.jpg)
+![Metadata Screenshot](/images/ExiftoolMetaData.png)
 
 This immediately provided both a potential identity and geolocation lead.
 
@@ -70,8 +71,7 @@ A search for the discovered username revealed accounts on:
 * X
 * WordPress
 
-📸 Screenshot placeholder:
-`![Google Search Result](/images/google.png)`
+![Google Search Result](/images/google.png)
 
 This enabled cross-platform digital footprint analysis.
 
@@ -82,8 +82,8 @@ This enabled cross-platform digital footprint analysis.
 On the subject’s X profile:
 
 * Avatar identified → **Cat**
-  📸 Screenshot placeholder:
-  `![User Avatar](/images/Xdata.png)`
+  
+  ![User Avatar](/images/Xdata.png)
 
 * A publicly posted BSSID was discovered:
 
@@ -91,8 +91,7 @@ On the subject’s X profile:
 B4:5D:50:AA:86:41
 ```
 
-📸 Screenshot placeholder:
-`![BSSID Post](/images/Xdata1.png`
+![BSSID Post](/images/Xdata1.png)
 
 This introduced network-level reconnaissance into the investigation.
 
@@ -113,8 +112,8 @@ Using WiGLE, I queried the BSSID.
 
 **SSID: UnileverWiFi**
 
-📸 Screenshot placeholder:
-`![SSID Discovery](images/sXdata1.png)`
+
+![SSID Discovery](images/sXdata1.png)
 
 ---
 
@@ -125,8 +124,8 @@ While reviewing public repositories on GitHub:
 * A personal email address was located within a README file
 * Location listed: **London**
 
-📸 Screenshot placeholder:
-`![GitHub Profile](images/githubdata.png)`
+
+![GitHub Profile](images/githubdata.png)
 
 This reinforces how public code repositories can unintentionally expose personally identifiable information (PII).
 
@@ -138,8 +137,8 @@ The subject’s WordPress blog revealed:
 
 * Holiday location → **New York**
 
-📸 Screenshot placeholder:
-`![Blog Holiday Post](/images/location.png)`
+
+![Blog Holiday Post](/images/location.png)
 
 Personal blogging platforms often provide contextual behavioral intelligence.
 
@@ -155,8 +154,7 @@ Within the HTML ...................source, a plaintext string was discovered:
 pennYDr0pper.!
 ```
 
-📸 Screenshot placeholder:
-`![Password in Source Code](/images/srcCode.png)`
+![Password in Source Code](/images/srcCode.png)
 
 This highlights the importance of secure development practices and proper credential management.
 
