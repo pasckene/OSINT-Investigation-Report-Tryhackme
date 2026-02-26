@@ -56,7 +56,7 @@ exiftool image.jpg
 * Copyright tag: **OWoodflint**
 
 📸 Screenshot placeholder:
-`![Metadata Screenshot](/images/WindowsXP_1551719014755.jpg)`
+`![Metadata Screenshot](https://github.com/pasckene/OSINT-Investigation-Report-Tryhackme/blob/main/images/WindowsXP_1551719014755.jpg?raw=true)`
 
 This immediately provided both a potential identity and geolocation lead.
 
